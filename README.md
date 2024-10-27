@@ -1,6 +1,8 @@
 # codepath-IOS101-prework
 IOS101 Prework App
+
 ![CodePath IOS101 PreWork - Imgur](https://github.com/user-attachments/assets/391a1f3f-a7e2-4d21-b80f-537b42622a03)
+
 Link to gif on imgur: https://imgur.com/a/HKSaSMP
 
 # App Brainstorming
